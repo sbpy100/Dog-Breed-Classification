@@ -10,3 +10,5 @@ Dog-Breed Classification  Using Deep Learning
 8. Documented the project's methodology, including model architecture, training process, and evaluation metrics, for clear understanding and reproducibility.
 9. Received positive feedback from users, highlighting the system's high accuracy and ease of use in identifying dog breeds from images.
 10. Demonstrated strong problem-solving skills and proficiency in machine learning techniques through successful completion of the project.
+# Test Result for Dog Breed Image
+![Screenshot 2024-03-30 192302](https://github.com/sbpy100/Dog-Breed-Classification/assets/143884538/9d7a94f7-d87f-48cd-b49c-c996d4df8435)
